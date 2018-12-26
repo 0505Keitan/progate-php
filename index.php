@@ -60,6 +60,11 @@ $user = array(
             );
 echo $user['name'];
 echo $user['level'] = 'beginner';
+for($i = 1; $i <= 100; $i++){
+    echo $i;
+}
+
+
 phpinfo();
  ?> 
  </body>
